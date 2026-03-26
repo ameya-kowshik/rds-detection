@@ -17,3 +17,5 @@ __pycache__/
 
 # Trained model files
 *.pkl
+
+docs/
